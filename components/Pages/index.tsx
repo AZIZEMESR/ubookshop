@@ -153,7 +153,7 @@ export async function getServerSideProps(context) {
 
   for (let book of books) {
     book.imageLink =
-      "https://irmapserver.ir/research/ex/books/" + book.imageLink;
+      "https://cdn.ituring.ir/research/ex/books/" + book.imageLink;
   }
 
   return {
