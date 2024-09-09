@@ -1,5 +1,5 @@
-This is a uservice project from Turing Research Team.
-<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
+This is a uservice project from Turing Research Team's member, Hamid Rahimi.
+<img src="https://github.com/AZIZEMESR/ubookshop/blob/main/Bugology.jpg?raw=true"/>
 ## Getting Started
 
 First, run the development server:
